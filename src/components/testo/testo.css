@@ -1,0 +1,21 @@
+.containerTesto {
+    padding: 50px;
+}
+
+.titolo > h1 {
+    text-align: left;
+    color: rgb(5, 5, 95);
+    font-size: larger;
+    font-weight: 1000;
+}
+
+.testo {
+    margin-top: 30px;
+    background-color: greenyellow;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+/* .testo > p {
+
+} */
