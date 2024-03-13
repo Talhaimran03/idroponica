@@ -3,11 +3,13 @@ import immagine from './img/immagineIdroponica.jpg';
 
 export default function Titolo() {
     return <>
-
-        <header className="centratutto container margine">
+        <div className="container margine">
+            <header className="centratutto ">
             <h1>🌱 Idroponica 🌱</h1>
         </header>
 
+        </div>
+        
         <div className="centratutto container">
             <img
                 src={immagine}
